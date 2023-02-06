@@ -1,3 +1,5 @@
 This is a test
 
 edited on master while branch f2 is being edited
+
+edit 2
