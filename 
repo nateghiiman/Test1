@@ -1,0 +1,24 @@
+[33mcommit a0ebd554ba9aa656d412ac5bb4d6c623bf3c2e04[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: nateghiiman <nateghiiman@gmail.com>
+Date:   Mon Feb 6 12:33:39 2023 +0330
+
+    this commit satisfies the 1st project
+
+[33mcommit 8e45e1c80758c87043551071cca628c5b89a9da3[m[33m ([m[1;33mtag: v0.02[m[33m)[m
+Author: nateghiiman <nateghiiman@gmail.com>
+Date:   Mon Feb 6 12:18:44 2023 +0330
+
+    new commit
+
+[33mcommit 377891aa51451a1e2f634dad7abe9eb87dafdad9[m[33m ([m[1;33mtag: v0.01[m[33m)[m
+Author: nateghiiman <nateghiiman@gmail.com>
+Date:   Mon Feb 6 12:08:53 2023 +0330
+
+    "this is the first commit after initial
+    line 2 of commit is this"
+
+[33mcommit 9d19da1ea39b66c434bd8d2f66f80d5e2eaf0502[m[33m ([m[1;33mtag: v0.1[m[33m, [m[1;33mtag: v0.00[m[33m)[m
+Author: nateghiiman <nateghiiman@gmail.com>
+Date:   Mon Feb 6 12:00:30 2023 +0330
+
+    initial commit
